@@ -1,5 +1,5 @@
 # Selenium 4 New Feature
-- Reltive Locators
+- Relative Locators
 - Manage Windows & Tabs
 - Element Position with getRect()
 - Screenshots
